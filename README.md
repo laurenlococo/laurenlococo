@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1>
+ Hi there 👋
+</h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=laurenlococo&theme=catppuccin-latte&hide_border=true&mode=weekly&background=45%2CEBEBEB00%2CFFFFFF00)](https://git.io/streak-stats)
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lauren-lo-coco-04512b181/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **laurenlococo/laurenlococo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
