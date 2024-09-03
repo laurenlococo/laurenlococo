@@ -1,5 +1,5 @@
 <h1>
- Hi there 👋
+ Ciao 👋
 </h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=laurenlococo&theme=catppuccin-latte&hide_border=true&mode=weekly&background=45%2CEBEBEB00%2CFFFFFF00)](https://git.io/streak-stats)
